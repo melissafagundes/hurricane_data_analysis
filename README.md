@@ -25,6 +25,9 @@ The main goal is to clean the dataset, explore key atmospheric variables, and id
 4. Exploratory data analysis
 5. Key insights and conclusion
 
+## Project File
+The full notebook is available in this repository: `MelissaLopes_HurricaneProject.ipynb`
+
 ## Key Insights
 - Lower atmospheric pressure is generally associated with higher wind speeds
 - The dataset shows a wide variation in storm intensity
